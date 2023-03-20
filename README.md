@@ -1,5 +1,5 @@
 # AktienverwaltungAlgo
-*The application was created in the summer semester 2022 in the course algorithsm and datastructures*
+*The application was created in the summer semester 2022 in the course algorithsm and datastructures at the UAS Vienna(FH Technikum Wien)*
 
 The task was to implement a simple console application where a user can save, plot and store stock data using a self-written hashtable to store the data. 
 The application uses a simple hashing algorithm with `n^^10+n^^9+...n^^1` and quadratic probing as collision handling. 
